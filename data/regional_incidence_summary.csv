@@ -1,0 +1,181 @@
+Disease,Region,Year,Incidence_per_100k
+Acute Diarrheal Disease,Central,2019,4.48
+Acute Diarrheal Disease,Central,2020,4.81
+Acute Diarrheal Disease,Central,2021,3.34
+Acute Diarrheal Disease,Central,2022,5.05
+Acute Diarrheal Disease,Central,2023,4.75
+Acute Diarrheal Disease,Central,2024,5.22
+Acute Diarrheal Disease,East,2019,5.94
+Acute Diarrheal Disease,East,2020,5.18
+Acute Diarrheal Disease,East,2021,5.87
+Acute Diarrheal Disease,East,2022,4.38
+Acute Diarrheal Disease,East,2023,6.7
+Acute Diarrheal Disease,East,2024,5.22
+Acute Diarrheal Disease,North,2019,15.21
+Acute Diarrheal Disease,North,2020,14.87
+Acute Diarrheal Disease,North,2021,16.29
+Acute Diarrheal Disease,North,2022,15.3
+Acute Diarrheal Disease,North,2023,25.59
+Acute Diarrheal Disease,North,2024,16.95
+Acute Diarrheal Disease,Northeast,2019,45.23
+Acute Diarrheal Disease,Northeast,2020,53.74
+Acute Diarrheal Disease,Northeast,2021,57.28
+Acute Diarrheal Disease,Northeast,2022,49.45
+Acute Diarrheal Disease,Northeast,2023,50.75
+Acute Diarrheal Disease,Northeast,2024,79.83
+Acute Diarrheal Disease,South,2019,152.86
+Acute Diarrheal Disease,South,2020,192.1
+Acute Diarrheal Disease,South,2021,188.17
+Acute Diarrheal Disease,South,2022,181.91
+Acute Diarrheal Disease,South,2023,185.93
+Acute Diarrheal Disease,South,2024,119.81
+Acute Diarrheal Disease,West,2019,116.34
+Acute Diarrheal Disease,West,2020,61.71
+Acute Diarrheal Disease,West,2021,81.21
+Acute Diarrheal Disease,West,2022,72.52
+Acute Diarrheal Disease,West,2023,102.55
+Acute Diarrheal Disease,West,2024,140.82
+Dengue,Central,2019,3.98
+Dengue,Central,2020,0.91
+Dengue,Central,2021,11.62
+Dengue,Central,2022,7.18
+Dengue,Central,2023,10.56
+Dengue,Central,2024,0.52
+Dengue,East,2019,6.36
+Dengue,East,2020,1.72
+Dengue,East,2021,6.41
+Dengue,East,2022,23.68
+Dengue,East,2023,20.34
+Dengue,East,2024,0.34
+Dengue,North,2019,25.65
+Dengue,North,2020,8.58
+Dengue,North,2021,45.22
+Dengue,North,2022,43.2
+Dengue,North,2023,39.3
+Dengue,North,2024,0.3
+Dengue,Northeast,2019,11.63
+Dengue,Northeast,2020,1.16
+Dengue,Northeast,2021,7.83
+Dengue,Northeast,2022,28.91
+Dengue,Northeast,2023,73.93
+Dengue,Northeast,2024,4.84
+Dengue,South,2019,32.61
+Dengue,South,2020,11.43
+Dengue,South,2021,25.01
+Dengue,South,2022,64.06
+Dengue,South,2023,141.71
+Dengue,South,2024,82.0
+Dengue,West,2019,98.99
+Dengue,West,2020,16.4
+Dengue,West,2021,47.81
+Dengue,West,2022,42.96
+Dengue,West,2023,62.06
+Dengue,West,2024,6.14
+H1N1 (Seasonal Influenza-A),Central,2019,0.47
+H1N1 (Seasonal Influenza-A),Central,2020,1.25
+H1N1 (Seasonal Influenza-A),Central,2021,0.4
+H1N1 (Seasonal Influenza-A),Central,2022,0.4
+H1N1 (Seasonal Influenza-A),Central,2023,0.33
+H1N1 (Seasonal Influenza-A),Central,2024,0.36
+H1N1 (Seasonal Influenza-A),East,2019,0.3
+H1N1 (Seasonal Influenza-A),East,2020,0.5
+H1N1 (Seasonal Influenza-A),East,2021,0.5
+H1N1 (Seasonal Influenza-A),East,2022,1.04
+H1N1 (Seasonal Influenza-A),East,2023,0.42
+H1N1 (Seasonal Influenza-A),East,2024,0.53
+H1N1 (Seasonal Influenza-A),North,2019,5.45
+H1N1 (Seasonal Influenza-A),North,2020,5.62
+H1N1 (Seasonal Influenza-A),North,2021,4.86
+H1N1 (Seasonal Influenza-A),North,2022,6.07
+H1N1 (Seasonal Influenza-A),North,2023,5.15
+H1N1 (Seasonal Influenza-A),North,2024,4.94
+H1N1 (Seasonal Influenza-A),Northeast,2019,12.43
+H1N1 (Seasonal Influenza-A),Northeast,2020,7.14
+H1N1 (Seasonal Influenza-A),Northeast,2021,14.39
+H1N1 (Seasonal Influenza-A),Northeast,2022,20.53
+H1N1 (Seasonal Influenza-A),Northeast,2023,12.87
+H1N1 (Seasonal Influenza-A),Northeast,2024,11.44
+H1N1 (Seasonal Influenza-A),South,2019,33.58
+H1N1 (Seasonal Influenza-A),South,2020,53.33
+H1N1 (Seasonal Influenza-A),South,2021,68.54
+H1N1 (Seasonal Influenza-A),South,2022,80.83
+H1N1 (Seasonal Influenza-A),South,2023,66.22
+H1N1 (Seasonal Influenza-A),South,2024,73.49
+H1N1 (Seasonal Influenza-A),West,2019,29.09
+H1N1 (Seasonal Influenza-A),West,2020,25.28
+H1N1 (Seasonal Influenza-A),West,2021,14.56
+H1N1 (Seasonal Influenza-A),West,2022,24.09
+H1N1 (Seasonal Influenza-A),West,2023,21.23
+H1N1 (Seasonal Influenza-A),West,2024,25.56
+Malaria,Central,2019,1.86
+Malaria,Central,2020,1.87
+Malaria,Central,2021,1.6
+Malaria,Central,2022,2.05
+Malaria,Central,2023,2.7
+Malaria,Central,2024,2.12
+Malaria,East,2019,2.22
+Malaria,East,2020,2.09
+Malaria,East,2021,4.35
+Malaria,East,2022,1.81
+Malaria,East,2023,2.15
+Malaria,East,2024,2.32
+Malaria,North,2019,3.57
+Malaria,North,2020,2.76
+Malaria,North,2021,1.84
+Malaria,North,2022,2.55
+Malaria,North,2023,2.93
+Malaria,North,2024,3.59
+Malaria,Northeast,2019,61.37
+Malaria,Northeast,2020,69.06
+Malaria,Northeast,2021,53.68
+Malaria,Northeast,2022,47.05
+Malaria,Northeast,2023,44.78
+Malaria,Northeast,2024,60.58
+Malaria,South,2019,32.49
+Malaria,South,2020,29.89
+Malaria,South,2021,48.43
+Malaria,South,2022,39.67
+Malaria,South,2023,29.18
+Malaria,South,2024,43.99
+Malaria,West,2019,22.73
+Malaria,West,2020,18.27
+Malaria,West,2021,23.07
+Malaria,West,2022,20.26
+Malaria,West,2023,20.01
+Malaria,West,2024,17.21
+Measles,Central,2019,0.09
+Measles,Central,2020,0.03
+Measles,Central,2021,0.02
+Measles,Central,2022,0.03
+Measles,Central,2023,0.05
+Measles,Central,2024,0.01
+Measles,East,2019,0.16
+Measles,East,2020,0.04
+Measles,East,2021,0.1
+Measles,East,2022,0.04
+Measles,East,2023,0.05
+Measles,East,2024,0.2
+Measles,North,2019,0.15
+Measles,North,2020,0.37
+Measles,North,2021,0.28
+Measles,North,2022,0.14
+Measles,North,2023,0.13
+Measles,North,2024,0.16
+Measles,Northeast,2019,1.86
+Measles,Northeast,2020,1.01
+Measles,Northeast,2021,1.18
+Measles,Northeast,2022,2.63
+Measles,Northeast,2023,0.87
+Measles,Northeast,2024,0.88
+Measles,South,2019,1.43
+Measles,South,2020,2.39
+Measles,South,2021,4.14
+Measles,South,2022,0.71
+Measles,South,2023,0.68
+Measles,South,2024,0.3
+Measles,West,2019,1.57
+Measles,West,2020,1.12
+Measles,West,2021,0.84
+Measles,West,2022,6.11
+Measles,West,2023,0.4
+Measles,West,2024,0.75

@@ -1,0 +1,181 @@
+Disease,State,Mean_Incidence,Total_Cases,Total_Deaths
+Acute Diarrheal Disease,Andaman and Nicobar Islands,205.0,5166.0,10.0
+Acute Diarrheal Disease,Andhra Pradesh,11.37,36759.0,41.0
+Acute Diarrheal Disease,Arunachal Pradesh,65.67,6186.0,10.0
+Acute Diarrheal Disease,Assam,2.42,5083.0,9.0
+Acute Diarrheal Disease,Bihar,3.68,27566.0,36.0
+Acute Diarrheal Disease,Chandigarh,88.81,6288.0,9.0
+Acute Diarrheal Disease,Chhattisgarh,4.3,5396.0,10.0
+Acute Diarrheal Disease,Dadra and Nagar Haveli,167.55,6186.0,12.0
+Acute Diarrheal Disease,Daman & Diu,334.26,5415.0,8.0
+Acute Diarrheal Disease,Delhi,2.57,5069.0,6.0
+Acute Diarrheal Disease,Goa,62.32,5758.0,11.0
+Acute Diarrheal Disease,Gujarat,1.27,4862.0,8.0
+Acute Diarrheal Disease,Haryana,2.44,4236.0,6.0
+Acute Diarrheal Disease,Himachal Pradesh,10.57,4630.0,8.0
+Acute Diarrheal Disease,Jammu and Kashmir,6.05,4938.0,8.0
+Acute Diarrheal Disease,Jharkhand,2.19,5080.0,9.0
+Acute Diarrheal Disease,Karnataka,6.6,26775.0,41.0
+Acute Diarrheal Disease,Kerala,3.07,3884.0,7.0
+Acute Diarrheal Disease,Lakshadweep,1081.9,4544.0,6.0
+Acute Diarrheal Disease,Madhya Pradesh,6.92,35275.0,45.0
+Acute Diarrheal Disease,Maharashtra,4.01,29628.0,50.0
+Acute Diarrheal Disease,Manipur,34.94,6709.0,10.0
+Acute Diarrheal Disease,Meghalaya,21.48,4383.0,6.0
+Acute Diarrheal Disease,Mizoram,90.28,6500.0,10.0
+Acute Diarrheal Disease,Nagaland,41.92,5368.0,8.0
+Acute Diarrheal Disease,Odisha,11.46,31890.0,51.0
+Acute Diarrheal Disease,Puducherry,39.34,3656.0,6.0
+Acute Diarrheal Disease,Punjab,3.09,5652.0,12.0
+Acute Diarrheal Disease,Rajasthan,5.76,27978.0,43.0
+Acute Diarrheal Disease,Sikkim,170.7,7067.0,13.0
+Acute Diarrheal Disease,Tamil Nadu,10.65,49717.0,69.0
+Acute Diarrheal Disease,Telangana,3.12,4259.0,7.0
+Acute Diarrheal Disease,Tripura,20.96,5157.0,8.0
+Acute Diarrheal Disease,Uttar Pradesh,2.6,36160.0,63.0
+Acute Diarrheal Disease,Uttarakhand,8.04,5448.0,8.0
+Acute Diarrheal Disease,West Bengal,4.86,29049.0,28.0
+Dengue,Andaman and Nicobar Islands,92.78,2338.0,3.0
+Dengue,Andhra Pradesh,7.93,25651.0,0.0
+Dengue,Arunachal Pradesh,4.04,381.0,0.0
+Dengue,Assam,5.06,10636.0,9.0
+Dengue,Bihar,5.62,42041.0,110.0
+Dengue,Chandigarh,49.59,3511.0,4.0
+Dengue,Chhattisgarh,4.02,7116.0,10.0
+Dengue,Dadra and Nagar Haveli,113.9,4237.0,2.0
+Dengue,Daman & Diu,92.78,1503.0,3.0
+Dengue,Delhi,23.74,46865.0,51.0
+Dengue,Goa,34.08,3149.0,4.0
+Dengue,Gujarat,11.88,45563.0,48.0
+Dengue,Haryana,18.2,31565.0,42.0
+Dengue,Himachal Pradesh,13.79,6041.0,3.0
+Dengue,Jammu and Kashmir,20.68,16877.0,32.0
+Dengue,Jharkhand,1.76,4068.0,5.0
+Dengue,Karnataka,15.62,63367.0,45.0
+Dengue,Kerala,19.74,42275.0,252.0
+Dengue,Lakshadweep,213.57,897.0,0.0
+Dengue,Madhya Pradesh,6.2,31626.0,15.0
+Dengue,Maharashtra,8.36,61768.0,164.0
+Dengue,Manipur,19.34,3714.0,4.0
+Dengue,Meghalaya,1.92,392.0,0.0
+Dengue,Mizoram,60.47,4354.0,7.0
+Dengue,Nagaland,38.89,5134.0,2.0
+Dengue,Odisha,11.5,32032.0,5.0
+Dengue,Puducherry,100.26,9625.0,9.0
+Dengue,Punjab,36.61,66992.0,171.0
+Dengue,Rajasthan,13.36,64911.0,144.0
+Dengue,Sikkim,32.17,1332.0,1.0
+Dengue,Tamil Nadu,7.99,37305.0,35.0
+Dengue,Telangana,17.85,40705.0,8.0
+Dengue,Tripura,9.14,2247.0,0.0
+Dengue,Uttar Pradesh,7.17,99586.0,131.0
+Dengue,Uttarakhand,26.68,18093.0,28.0
+Dengue,West Bengal,20.35,111825.0,41.0
+H1N1 (Seasonal Influenza-A),Andaman and Nicobar Islands,64.87,1624.0,45.0
+H1N1 (Seasonal Influenza-A),Andhra Pradesh,0.45,1453.0,33.0
+H1N1 (Seasonal Influenza-A),Arunachal Pradesh,12.15,1144.0,25.0
+H1N1 (Seasonal Influenza-A),Assam,0.87,1828.0,33.0
+H1N1 (Seasonal Influenza-A),Bihar,0.27,2023.0,46.0
+H1N1 (Seasonal Influenza-A),Chandigarh,22.01,1558.0,44.0
+H1N1 (Seasonal Influenza-A),Chhattisgarh,0.76,1356.0,44.0
+H1N1 (Seasonal Influenza-A),Dadra and Nagar Haveli,37.5,1395.0,37.0
+H1N1 (Seasonal Influenza-A),Daman & Diu,75.74,1227.0,31.0
+H1N1 (Seasonal Influenza-A),Delhi,2.57,5078.0,150.0
+H1N1 (Seasonal Influenza-A),Goa,23.27,2111.0,52.0
+H1N1 (Seasonal Influenza-A),Gujarat,1.31,5038.0,113.0
+H1N1 (Seasonal Influenza-A),Haryana,0.8,1384.0,34.0
+H1N1 (Seasonal Influenza-A),Himachal Pradesh,4.77,2091.0,59.0
+H1N1 (Seasonal Influenza-A),Jammu and Kashmir,2.32,1894.0,41.0
+H1N1 (Seasonal Influenza-A),Jharkhand,0.72,1679.0,35.0
+H1N1 (Seasonal Influenza-A),Karnataka,1.85,7523.0,182.0
+H1N1 (Seasonal Influenza-A),Kerala,2.64,5665.0,125.0
+H1N1 (Seasonal Influenza-A),Lakshadweep,412.86,1734.0,32.0
+H1N1 (Seasonal Influenza-A),Madhya Pradesh,0.27,1395.0,40.0
+H1N1 (Seasonal Influenza-A),Maharashtra,0.78,5710.0,139.0
+H1N1 (Seasonal Influenza-A),Manipur,7.56,1452.0,39.0
+H1N1 (Seasonal Influenza-A),Meghalaya,10.54,2151.0,56.0
+H1N1 (Seasonal Influenza-A),Mizoram,24.9,1793.0,54.0
+H1N1 (Seasonal Influenza-A),Nagaland,10.18,1287.0,34.0
+H1N1 (Seasonal Influenza-A),Odisha,0.96,1481.0,37.0
+H1N1 (Seasonal Influenza-A),Puducherry,14.25,1368.0,23.0
+H1N1 (Seasonal Influenza-A),Punjab,2.75,5030.0,133.0
+H1N1 (Seasonal Influenza-A),Rajasthan,1.21,5890.0,186.0
+H1N1 (Seasonal Influenza-A),Sikkim,32.62,1333.0,24.0
+H1N1 (Seasonal Influenza-A),Tamil Nadu,1.1,5155.0,108.0
+H1N1 (Seasonal Influenza-A),Telangana,3.3,7526.0,225.0
+H1N1 (Seasonal Influenza-A),Tripura,6.24,1534.0,40.0
+H1N1 (Seasonal Influenza-A),Uttar Pradesh,0.57,1991.0,39.0
+H1N1 (Seasonal Influenza-A),Uttarakhand,2.22,1509.0,38.0
+H1N1 (Seasonal Influenza-A),West Bengal,0.25,1482.0,39.0
+Malaria,Andaman and Nicobar Islands,35.08,884.0,3.0
+Malaria,Andhra Pradesh,1.25,4031.0,8.0
+Malaria,Arunachal Pradesh,95.51,8997.0,32.0
+Malaria,Assam,1.4,2134.0,5.0
+Malaria,Bihar,0.34,2505.0,9.0
+Malaria,Chandigarh,13.2,935.0,2.0
+Malaria,Chhattisgarh,3.88,6864.0,18.0
+Malaria,Dadra and Nagar Haveli,31.5,1172.0,3.0
+Malaria,Daman & Diu,57.1,925.0,4.0
+Malaria,Delhi,0.6,1175.0,4.0
+Malaria,Goa,28.95,2639.0,9.0
+Malaria,Gujarat,2.06,7926.0,22.0
+Malaria,Haryana,0.49,838.0,2.0
+Malaria,Himachal Pradesh,1.66,726.0,0.0
+Malaria,Jammu and Kashmir,1.45,1185.0,5.0
+Malaria,Jharkhand,5.95,13775.0,33.0
+Malaria,Karnataka,0.72,2932.0,8.0
+Malaria,Kerala,0.38,815.0,3.0
+Malaria,Lakshadweep,247.62,1040.0,2.0
+Malaria,Madhya Pradesh,1.97,10030.0,29.0
+Malaria,Maharashtra,1.33,6940.0,28.0
+Malaria,Manipur,59.56,11436.0,38.0
+Malaria,Meghalaya,51.11,10427.0,35.0
+Malaria,Mizoram,109.88,7911.0,17.0
+Malaria,Nagaland,72.0,9504.0,31.0
+Malaria,Odisha,3.06,7432.0,22.0
+Malaria,Puducherry,10.7,1027.0,3.0
+Malaria,Punjab,0.76,678.0,1.0
+Malaria,Rajasthan,0.61,2982.0,8.0
+Malaria,Sikkim,24.11,998.0,3.0
+Malaria,Tamil Nadu,0.59,962.0,4.0
+Malaria,Telangana,1.87,4267.0,15.0
+Malaria,Tripura,35.13,8643.0,26.0
+Malaria,Uttar Pradesh,0.26,3660.0,15.0
+Malaria,Uttarakhand,1.97,1335.0,4.0
+Malaria,West Bengal,0.62,3699.0,12.0
+Measles,Andaman and Nicobar Islands,2.62,66.0,0.0
+Measles,Andhra Pradesh,0.02,62.0,0.0
+Measles,Arunachal Pradesh,0.52,49.0,0.0
+Measles,Assam,0.1,202.0,0.0
+Measles,Bihar,0.05,385.0,2.0
+Measles,Chandigarh,0.87,62.0,0.0
+Measles,Chhattisgarh,0.06,108.0,1.0
+Measles,Dadra and Nagar Haveli,2.2,82.0,0.0
+Measles,Daman & Diu,7.97,129.0,0.0
+Measles,Delhi,0.02,39.0,0.0
+Measles,Goa,0.56,52.0,0.0
+Measles,Gujarat,0.02,39.0,0.0
+Measles,Haryana,0.06,103.0,0.0
+Measles,Himachal Pradesh,0.2,86.0,0.0
+Measles,Jammu and Kashmir,0.13,92.0,0.0
+Measles,Jharkhand,0.28,657.0,3.0
+Measles,Karnataka,0.01,49.0,0.0
+Measles,Kerala,0.03,58.0,0.0
+Measles,Lakshadweep,9.78,41.0,0.0
+Measles,Madhya Pradesh,0.03,136.0,0.0
+Measles,Maharashtra,0.0,40.0,0.0
+Measles,Manipur,2.47,475.0,1.0
+Measles,Meghalaya,1.74,354.0,0.0
+Measles,Mizoram,0.93,67.0,0.0
+Measles,Nagaland,4.27,564.0,2.0
+Measles,Odisha,0.05,129.0,0.0
+Measles,Puducherry,0.38,35.0,0.0
+Measles,Punjab,0.06,114.0,0.0
+Measles,Rajasthan,0.02,36.0,0.0
+Measles,Sikkim,1.06,44.0,0.0
+Measles,Tamil Nadu,0.01,49.0,0.0
+Measles,Telangana,0.02,46.0,0.0
+Measles,Tripura,0.16,40.0,0.0
+Measles,Uttar Pradesh,0.02,337.0,1.0
+Measles,Uttarakhand,0.09,61.0,0.0
+Measles,West Bengal,0.01,54.0,0.0
